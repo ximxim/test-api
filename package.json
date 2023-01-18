@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/ximxim/test-api/issues"
   },
-  "homepage": "https://github.com/ximxim/test-api#readme"
+  "homepage": "https://github.com/ximxim/test-api#readme",
+  "dependencies": {
+    "knope": "^1.1.2"
+  }
 }
